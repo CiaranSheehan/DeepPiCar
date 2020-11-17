@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>014.jpg</filename>
+	<path>C:\tf_files\test\014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bridge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>53</ymin>
+			<xmax>352</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>
