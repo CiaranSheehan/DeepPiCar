@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TrainingData</folder>
+	<filename>038.jpg</filename>
+	<path>C:\Users\Ciarán Sheehan\Desktop\fyp\TrainingData\038.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>215</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bridge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>54</ymin>
+			<xmax>258</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>
